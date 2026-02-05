@@ -47,6 +47,10 @@ I am a Data and Business Analyst with 4+ years of experience translating data in
 * Identified repayment history and credit limit as key predictors of default risk
 * Achieved highest performance using Random Forest based on F1-score and AUC metrics
 
+🔗 **Links**
+
+* GitHub Repository: [https://github.com/atiqali/Credit-Card-Default-Prediction-Using-Multivariate-Analysis](https://github.com/atiqali/Credit-Card-Default-Prediction-Using-Multivariate-Analysis)
+
 ---
 
 ### 🦠 Optimal Control Analysis of SIR Model Using Genetic Algorithms
@@ -56,6 +60,10 @@ I am a Data and Business Analyst with 4+ years of experience translating data in
 * Applied genetic algorithms to optimize control strategies in an SIR epidemiological model
 * Reduced infection rates by approximately 15% through optimized intervention strategies
 * Designed a predictive optimization framework to evaluate vaccination and awareness policies
+
+🔗 **Links**
+
+* GitHub Repository: 
 
 ---
 
