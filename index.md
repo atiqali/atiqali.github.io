@@ -33,7 +33,7 @@ I am a Data and Business Analyst with 4+ years of experience translating data in
 
 🔗 **Links:**
 
-* Tableau Public: (add your Tableau Public link here)
+* Tableau Public: [https://public.tableau.com/app/profile/atiq.ali/viz/Sales_Dashboard_2020_2023/SalesDashboard](https://public.tableau.com/app/profile/atiq.ali/viz/Sales_Dashboard_2020_2023/SalesDashboard)
 * GitHub Repository: [https://github.com/atiqali/tableau-sales-dashboard-2020-2023](https://github.com/atiqali/tableau-sales-dashboard-2020-2023)
 
 ---
