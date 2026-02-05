@@ -63,7 +63,7 @@ I am a Data and Business Analyst with 4+ years of experience translating data in
 
 🔗 **Links**
 
-* GitHub Repository: 
+* GitHub Repository: [https://github.com/atiqali/Optimal-Control-Analysis-of-SIR-Model-Using-Genetic-Algorithms](https://github.com/atiqali/Optimal-Control-Analysis-of-SIR-Model-Using-Genetic-Algorithms)
 
 ---
 
