@@ -75,5 +75,5 @@ Institute of Business Administration
 ## 📬 Contact
 
 📧 Email: [atiqali4567@gmail.com](mailto:atiqali4567@gmail.com)
-💼 LinkedIn: (add your LinkedIn link here)
+💼 LinkedIn: [https://www.linkedin.com/in/atiqali-546a30151](https://www.linkedin.com/in/atiqali-546a30151/)
 💻 GitHub: [https://github.com/atiqali](https://github.com/atiqali)
